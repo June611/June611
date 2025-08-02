@@ -1,4 +1,5 @@
 ## 👋 Hi, I'm Riccardo(Zhiyue in Chinese) 
+[中文版] (https://github.com/June611/June611/blob/main/readme_zn.md)
 
 I'm a passionate computer science student exploring the world of intelligent systems. The path may be filled with obstacles, but it's also full of inspiration and discovery.
 
